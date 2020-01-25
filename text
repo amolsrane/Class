@@ -1,0 +1,49 @@
+mongod -dbpath E:\Amol R_Mean\MongoDb
+command : mongo (to connect with DB)
+
+show dbs (display all databases in my DB)
+
+use meandb (if DB present then open or create the DB)
+
+show collections (it will show all collection from DB - Catego)
+db.createCollection('Product')
+
+db.category.insert({categoryRowId:1,categoryId:"Cat101",categoryName:"Electronics",BasePrice:12000})
+
+db.category.find()
+
+db.category.insert([{categoryRowId:1,categoryId:"Cat101",categoryName:"Electronics",BasePrice:12000},
+{categoryRowId:2,categoryId:"Cat102",categoryName:"Electrical",BasePrice:10000}])
+
+
+
+MOngoshape studio3T
+
+
+Delete,DEleteMany
+
+Read node js request Processing and nodeModules
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
