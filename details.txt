@@ -3,3 +3,70 @@ Compass
 MDB\server \4.0\bin
 
 drona Angular MEAN_ATL_22DEC2019
+
+
+
+3 langauges
+	1. ES6 aka heigh level javascript aka modern javascript (mozila Foundation) 
+	2. Typescript, by Microsoft (www.typescriptlang.org)
+	3. Dart
+
+
+- Scope
+	- restric scope use let	
+- datatypes
+	- Numeric datatypes
+		- number
+	- string datatypes
+		- string	
+	- object
+	- Boolen
+	- Date
+	- Union datatypes
+		- declaring a variable with more 
+	- any
+	- void
+	- array
+		- datatype declared using []
+		- array as a Class
+			- properties
+				- length
+			- Methods
+				- push / pop
+				- filter : filter element from arraybasedd on condition /sort/reverse
+				- splice -- remove element from array
+				- slice -- divide array in parts
+				- shift and unshift : for adjust the array position
+				- foreach/ map : for looping
+		- loops
+			- for 
+			- for ..  in loop  : Simple syntax of ofe ..loop
+			- for .. of ..loop : new ES6 like foreach
+
+
+- template string
+	- new syntax for string concatination.
+		- traditional js (str1+str2+str3) In template string : (back tap) `${str1} ${str2} ${str3}'
+
+- arrow operators
+- rest operators
+- OOPs
+	- Class
+		- access specifier
+		- static
+		- constructor
+- Modules
+- 
+
+
+
+
+npm install -g typescript
+- This will provide typescript 'transpiler' : it transfer typescript code into javascript
+
+- The 'tsc' tool
+	 - tsc <file-name>.ts
+	 - it transpile into <filename>.js
+
+
+ 
