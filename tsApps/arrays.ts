@@ -66,6 +66,14 @@ arrayM.forEach((s,i)=>{
     console.log(s)
 })
 
+// console.log("shift array ", names.shift())
+// console.log('after shift',names)
+
+
+// console.log("Unshift array ", names.unshift('Z'))
+// console.log('after Unshift',names)
+
+
 console.log("Sort array ", names.sort())
 
 console.log("reverse array ", names.reverse())

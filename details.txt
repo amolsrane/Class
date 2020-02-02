@@ -53,12 +53,15 @@ drona Angular MEAN_ATL_22DEC2019
 - OOPs
 	- Class
 		- access specifier
+			- public
+			- private 
+			- protected
 		- static
 		- constructor
 - Modules
-- 
-
-
+	- overloading is not suported,but you try then javascript execute with last Methods
+	- Inheritance 
+		- the derived class constructor must acceess base class constructor
 
 
 npm install -g typescript
@@ -70,3 +73,13 @@ npm install -g typescript
 
 
  
+
+
+
+
+
+
+
+
+ Read: 
+1. index of , split, splice, slice, methods of array ,array of objects, 
