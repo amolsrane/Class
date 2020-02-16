@@ -83,3 +83,42 @@ npm install -g typescript
 
  Read: 
 1. index of , split, splice, slice, methods of array ,array of objects, 
+
+
+
+
+
+========================= Angular ======================================
+ng packages
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
